@@ -1,4 +1,4 @@
 <?php
-print ("Prueba de rollback")
+print ("Prueba de rollback");
  phpinfo();
 ?>
